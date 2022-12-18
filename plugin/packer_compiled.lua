@@ -115,6 +115,11 @@ _G.packer_plugins = {
     path = "/home/iamhi/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["gruvbox.nvim"] = {
+    loaded = true,
+    path = "/home/iamhi/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
+    url = "https://github.com/ellisonleao/gruvbox.nvim"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/iamhi/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -184,6 +189,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/iamhi/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["tokyonight.nvim"] = {
+    loaded = true,
+    path = "/home/iamhi/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+    url = "https://github.com/folke/tokyonight.nvim"
   },
   undotree = {
     loaded = true,

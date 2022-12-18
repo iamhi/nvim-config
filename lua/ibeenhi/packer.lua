@@ -53,4 +53,6 @@ return require('packer').startup(function(use)
       {'rafamadriz/friendly-snippets'},
     }
   }
+  use('ellisonleao/gruvbox.nvim')
+  use('folke/tokyonight.nvim')
 end)
