@@ -7,7 +7,7 @@ return require('packer').startup(function(use)
   --  use { 'ms-jpq/coq_nvim', branch = 'coq' }
   --  use { 'ms-jpq/coq.artifacts', branch = 'artifacts' }
   --  use { 'ms-jpq/coq.thirdparty', branch = '3p' }
-  use 'preservim/nerdcommenter'
+  -- use 'preservim/nerdcommenter'
   use { 'nvim-telescope/telescope.nvim', tag = '0.1.x', requires = { {'nvim-lua/plenary.nvim'} } }
   use {
     'nvim-tree/nvim-tree.lua',
